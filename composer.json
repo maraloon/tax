@@ -1,0 +1,16 @@
+{
+    "name": "sidspears/commisions",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sidspears\\Commisions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mara",
+            "email": "mara@the-witch.ru"
+        }
+    ],
+    "require": {}
+}
