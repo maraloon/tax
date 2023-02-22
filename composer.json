@@ -1,9 +1,9 @@
 {
-    "name": "sidspears/commisions",
+    "name": "sidspears/tax",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Sidspears\\Commisions\\": "src/"
+            "Sidspears\\Tax\\": "src/"
         }
     },
     "authors": [
@@ -14,5 +14,8 @@
     ],
     "require-dev": {
         "phpunit/phpunit": "^9.6"
+    },
+    "require": {
+        "symfony/http-client": "^6.0"
     }
 }
